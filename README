@@ -1,0 +1,10 @@
+ocra2
+=====
+
+This is a simple emulator for the (fake) microprocessor described by OCR in their A2 Electronics exam (until 2009). It reads a binary file with instructions and runs the program on the host machine in an emulated environment.
+
+During the emulation the contents of the registers can be printed (check the usage for print flags). The emulation can be set as step through, delayed, or run end-to-end.
+
+@author Tom Hennigan <tomhennigan@gmail.com>
+@year 2008
+
